@@ -137,11 +137,3 @@ Pull requests and stars are welcome! Feel free to fork the project and submit im
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## ✨ Acknowledgments
-
-* Problem metadata parsing via Puppeteer & LeetCode GraphQL
-
----
-
-Made with ❤️ by Arunima
